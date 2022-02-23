@@ -2,6 +2,7 @@ The code behind the temporary? DEI Taskforce website,
 please let me know if there are any mistakes or issues
 when viewing the site. 
 
+View the site at: https://toier.github.io/dei-taskforce/
 
 Built using:
 Telephasic by HTML5 UP
