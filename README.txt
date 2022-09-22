@@ -1,4 +1,4 @@
-The code behind the temporary? DEI Taskforce website, 
+The code behind the DEI Taskforce website, 
 please let me know if there are any mistakes or issues
 when viewing the site. 
 

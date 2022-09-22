@@ -50,6 +50,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+table#colloquium {
+	border-spacing: 0 1em;
+	
+}
 
 body {
 	-webkit-text-size-adjust: none;
@@ -1744,6 +1748,10 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 40px;
 						}
+			.image img {
+				display: block;
+				width: 60%;
+			}
 
 		}
 
@@ -1994,6 +2002,19 @@ input, select, textarea {
 			table.default tfoot {
 				border-top: solid 1px #D2D7DC;
 			}
+	
+		table.spaced {
+		 border-collapse: separate;
+		 font-size: x-large; 
+		 font-style: italic; 
+		 border-spacing: 0 3em;
+		 margin-left: auto;
+		 margin-right: auto;
+		}
+	tr.text {
+		font-size: x-large;
+	}
+	
 
 /* Button */
 
@@ -2649,6 +2670,7 @@ input, select, textarea {
 
 			#footer header.major {
 				margin-bottom: 1.5em;
+				word-wrap: norm;
 			}
 
 	}
@@ -2942,6 +2964,11 @@ input, select, textarea {
 				-ms-transform: translateY(0);
 				transform: translateY(0);
 			}
+		.image img {
+			display: block;
+			align-self: auto;
+			width: 60%;
+		}
 
 	}
 
