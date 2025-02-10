@@ -204,6 +204,22 @@ input, select, textarea {
 
 /* Sections/Article */
 
+	/* Banner */
+
+	#banner {
+		display: block;
+		padding: 0.5em 1em;
+	}
+
+	#banner p {
+		margin: auto !important;
+		width: fit-content;
+	}
+
+	#banner a {
+		color: #1a7489;
+	}
+
 	section, article {
 		margin-bottom: 3em;
 	}
